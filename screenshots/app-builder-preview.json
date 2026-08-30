@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Kaleido",
+      "hasCanvas": true,
+      "bodyTextLen": 111,
+      "bodyTextHash": "d9c585bdc264ae56ad2abf32b1ea8e5f3dcf6d2a69b80979ce4780229329d865",
+      "bodyTextPrefix": "Kaleido Move to paint Segments 8 Brush 16 Spectrum Prism Aurora ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Kaleido",
+      "hasCanvas": true,
+      "bodyTextLen": 111,
+      "bodyTextHash": "d9c585bdc264ae56ad2abf32b1ea8e5f3dcf6d2a69b80979ce4780229329d865",
+      "bodyTextPrefix": "Kaleido Move to paint Segments 8 Brush 16 Spectrum Prism Aurora ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
