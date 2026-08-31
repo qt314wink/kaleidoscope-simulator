@@ -2,6 +2,7 @@ import { createRootRoute, HeadContent, Outlet, Scripts } from "@tanstack/react-r
 import { AuthProvider } from "@/lib/auth/provider";
 import { PreviewHostBridge } from "@/components/preview-host-bridge";
 import { SpeedInsights } from "@vercel/speed-insights/react";
+import { Analytics } from "@vercel/analytics/react";
 import appCss from "../styles.css?url";
 
 const APP_NAME = "Kaleido";
@@ -42,6 +43,7 @@ export const Route = createRootRoute({
           <Outlet />
         </AuthProvider>
         <SpeedInsights />
+        <Analytics />
         <Scripts />
       </body>
     </html>
